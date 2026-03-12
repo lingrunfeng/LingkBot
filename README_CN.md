@@ -12,7 +12,7 @@ LingkBot is a `ROS 2 Jazzy` robotics system integration project centered on embo
 绝大部分能力先在仿真中打通，再逐步推进到真机 bringup、watchdog、map jump protection 和 kidnapped robot recovery。  
 这一页是整套系列文章的总入口，目标不是展示某个单点模型，而是系统化记录一条从 classical robotics 到 hierarchical embodied agent 的演化路径。
 
-**视频展示：** [YouTube](https://www.youtube.com/watch?v=-muKKy4nznA)
+[![YouTube Demo](https://img.shields.io/badge/Video-YouTube-red)](https://www.youtube.com/watch?v=-muKKy4nznA)
 
 > **开源计划：** 项目计划在 **2026 年 9 月之后** 开源，系列文章里也会对开源相关安排和范围做更多说明。
 
@@ -204,4 +204,3 @@ LingkBot is a `ROS 2 Jazzy` robotics system integration project centered on embo
 
 联系方式：qq693180059lrf@gmail.com  
 领英：www.linkedin.com/in/runfeng-ling-34b51238b
-

@@ -9,7 +9,7 @@ LingkBot is a `ROS 2 Jazzy` robotics system integration project focused on embod
 
 This page is the English index for the `docs/showcase_posts` series. The goal is not to present a single flashy model demo, but to document a system-level path from classical robotics to a hierarchical embodied agent.
 
-[![YouTube Demo](https://img.shields.io/badge/Video-YouTube-red)](https://www.youtube.com/watch?v=-muKKy4nznA)
+**Video:** [YouTube](https://www.youtube.com/watch?v=-muKKy4nznA)
 
 > **Open-source plan:** this project is planned to be open-sourced after September 2026. The articles will include more explanation about the open-source plan and scope.
 

@@ -175,3 +175,6 @@ Related article:
 10. [`09 ROSplat and 3DGS: Why I Still Want a Gaussian Scene Layer`](./05_side_quests/09_3dgs_rosplat_visualization_en.md)
 11. [`10 Gesture-Controlled Robot Arm`](./05_side_quests/10_gesture_control_arm_en.md)
 12. [`11 This Is Not Just a Comparison of Three Technical Routes, but the Evolution of a Civilian Embodied System`](./06_epilogue/11_semantic_navigation_paradigm_comparison_en.md)
+
+Email：qq693180059lrf@gmail.com  
+Linkedin：www.linkedin.com/in/runfeng-ling-34b51238b

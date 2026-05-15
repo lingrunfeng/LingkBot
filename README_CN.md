@@ -142,7 +142,18 @@ LingkBot is a `ROS 2 Jazzy` robotics system integration project centered on embo
 - [`09 ROSplat 与 3DGS：我为什么还是想把高斯地图接进来`](05_side_quests/09_3dgs_rosplat_visualization.md)
 - [`10 手势控制机械臂：看到网上喷漆机器人以后，我也手痒了`](05_side_quests/10_gesture_control_arm.md)
 
-### 6. 总结-可以从这里倒叙开始阅读
+### 6. 真机演示
+
+- 真机这边目前主要验证的是最小可行闭环
+- 现在已经实际测试到的主链路是：自动探索建图、导航、抓取
+- 这部分还在继续慢慢打磨，但已经不只是 bringup 阶段了
+
+<p align="center">
+  <img src="assets/readme/Leorover-real/leorover-exploration.gif" alt="LeoRover 真机自主探索建图演示" width="48%" />
+  <img src="assets/readme/Leorover-real/Leorover-full-lifecycle.gif" alt="LeoRover 真机最小可行闭环演示：导航与抓取" width="48%" />
+</p>
+
+### 7. 总结-可以从这里倒叙开始阅读
 - 这不是一个新算法项目
 - 这是一部个人级具身系统集成进化史
 - 也是一个典型的“缝合怪为什么稀缺”的案例

@@ -138,7 +138,18 @@ Related articles:
 - [`09 ROSplat and 3DGS: Why I Still Want a Gaussian Scene Layer`](./05_side_quests/09_3dgs_rosplat_visualization_en.md)
 - [`10 Gesture-Controlled Robot Arm`](./05_side_quests/10_gesture_control_arm_en.md)
 
-### 6. Epilogue
+### 6. Real Robot Demo
+
+- real-hardware testing is currently focused on the minimum viable closed loop
+- the verified path so far is: autonomous exploration mapping, navigation, and grasping
+- this part is still being iterated carefully, but the real robot has already moved beyond bringup-only status
+
+<p align="center">
+  <img src="./assets/readme/Leorover-real/leorover-exploration.gif" alt="LeoRover real robot autonomous exploration and mapping demo" width="48%" />
+  <img src="./assets/readme/Leorover-real/Leorover-full-lifecycle.gif" alt="LeoRover real robot minimum viable lifecycle demo with navigation and grasping" width="48%" />
+</p>
+
+### 7. Epilogue
 
 - this is not a new-algorithm paper project
 - this is the evolution of a civilian-scale embodied robotics system
